@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "eslint-config-node": "^4.0.0"
+    "eslint-config-node": "4.0.0"
   }
 }

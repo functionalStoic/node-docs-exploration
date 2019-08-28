@@ -340,7 +340,7 @@ eslint-config-esnext@^4.0.0:
     eslint-plugin-babel "^5.2.1"
     eslint-plugin-import "^2.14.0"
 
-eslint-config-node@^4.0.0:
+eslint-config-node@4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-node/-/eslint-config-node-4.0.0.tgz#4ebb40defd29a261ce2e7f6fe1b2d7aee38cf2a5"
   integrity sha512-sdr7zqVTQddLEBpsNzTFASOAk8bSbWatZqxLD9J1nBI/H83lGOknODaCCJFWMDN+36LNUMVWVWo+0LhxQJc+wg==
